@@ -25,8 +25,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ## 📚 Aprendendo  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 
 ## 📬 Me encontre  
 📧 E-mail: [ariellucaslf@gmail.com](mailto:ariellucaslf@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/ariel-lucas-lf09)  
+💼 [LinkedIn](https://www.linkedin.com/in/ariel-lucas-lf09)  
