@@ -1,7 +1,7 @@
 # Olá, sou Ariel Lucas 
 
 Desenvolvedor Full-Stack focado em transformar desafios reais em soluções de software escaláveis.  
-Graduação **Tecnóloga em Sistemas para Internet**.
+**Tecnólogo em Sistemas para Internet**.
 
 Minha trajetória combina a vivência como fundador do **Ciboo** com a experiência prática
 como desenvolvedor full-stack — atuando como ponto central de tecnologia em empresas, resolvendo
