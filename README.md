@@ -1,48 +1,67 @@
-# Olá, sou Ariel Lucas 
+# Olá, sou Ariel Lucas
 
-Desenvolvedor Full-Stack focado em transformar desafios reais em soluções de software escaláveis.  
-**Tecnólogo em Sistemas para Internet**.
+**Engenheiro de Software Full-Stack · focado em transformar desafios reais em soluções de software escaláveis.**
 
-Minha trajetória combina a vivência como fundador do **Ciboo** com a experiência prática
-como desenvolvedor full-stack — atuando como ponto central de tecnologia em empresas, resolvendo
-gargalos críticos de gestão, financeiro e documentação. Da especificação ao deploy em produção.
+Minha trajetória combina a vivência como fundador do **Ciboo** e o **FaciliCond** com a experiência prática como desenvolvedor full-stack — atuando como ponto central de tecnologia em empresas, resolvendo gargalos críticos de gestão, financeiro e documentação. Da especificação ao deploy em produção.
 
-Utilizo tecnologias modernas integradas ao poder da IA para acelerar o ciclo de desenvolvimento
-e garantir entregas de alta qualidade.
+Atualmente lidero a engenharia de dois produtos proprietários: o **FaciliCond** (plataforma SaaS de gestão condominial com totem biométrico) e o **Ciboo** (SaaS para o setor gastronômico). Integro fluxos de trabalho acelerados por IA no meu ciclo diário, priorizando entregas rápidas sem abrir mão de arquitetura limpa e segurança.
 
 ---
 
-## O que trago para a mesa
+### Projetos em Destaque
 
-- **Full-Stack & Cloud** — desenvolvimento de ponta a ponta e gestão de deploy em produção
-- **Visão de negócio** — identifico dores internas e implemento sistemas que automatizam processos e reduzem custos
-- **Developer Experience** — uso de IA e ferramentas modernas para otimizar desenvolvimento e manutenção
-- **Mindset de produto** — foco na experiência do usuário e na viabilidade técnica das soluções
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Facili Condomínio</h3>
+      <p align="center"><em>Plataforma SaaS B2B/B2C de Gestão Condominial Inteligente</em></p>
+      <p>Ecossistema completo com <b>três repositórios isolados</b> (API, Painel Web e App Mobile/Kiosk), atendendo síndicos, administradoras, moradores e funcionários. Principais entregas:</p>
+      <ul>
+        <li><b>Ponto Eletrônico com Biometria Facial (REP-A)</b> — Hash SHA-256 imutável com validade jurídica conforme Portaria 671/MTE</li>
+        <li>Gestão de encomendas, achados e perdidos com rastreamento por unidade</li>
+        <li>Motor financeiro de receitas e despesas com transações atômicas</li>
+        <li>Chat interno síndico-morador eliminando dependência de WhatsApp</li>
+        <li>Worker assíncrono isolado (BullMQ/Redis) para escalabilidade horizontal</li>
+      </ul>
+      <p><b>Stack:</b> Node.js · Express · TypeScript · React Native (Expo) · Next.js · PostgreSQL · Prisma · Redis · BullMQ · Docker · AWS/R2</p>
+      <p align="center"><a href="https://github.com/ariellucaslf/facilicond"><b>Ver Arquitetura & Case →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Ciboo (Ainda em desenvolvimento)</h3>
+      <p align="center"><em>SaaS de Gestão Operacional para Restaurantes</em></p>
+      <p>Plataforma ponta a ponta para otimização do setor gastronômico: controle de pedidos, fluxo operacional e métricas de desempenho para proprietários de estabelecimentos.</p>
+      <ul>
+        <li>Dashboard analítico com métricas em tempo real</li>
+        <li>Pipeline automatizado de pedidos e produção</li>
+        <li>Interface responsiva para uso em tablets da cozinha</li>
+      </ul>
+      <p><b>Stack:</b> Next.js · React · Node.js · TypeScript · Docker · Cloud Deploy</p>
+      <p align="center"><a href="https://github.com/ariellucaslf/ciboo"><b>Explorar Projeto →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Stack
+### Stack & Ferramentas
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+| Camada | Tecnologias |
+|---|---|
+| **Frontend Web** | Next.js · React · TypeScript · TailwindCSS |
+| **Mobile & Kiosk** | React Native · Expo · Biometria Facial |
+| **Backend & APIs** | Node.js · Express · REST APIs · BullMQ Workers |
+| **Bancos de Dados** | PostgreSQL · MySQL · Prisma ORM · Redis |
+| **Infra & DevOps** | Docker · Docker Compose · CI/CD · AWS/R2 · Vercel · Render |
 
 ---
 
-## Atualmente
+### Como eu trabalho
 
-- Desenvolvendo a **Ciboo** — startup focada no gerenciamento de restaurantes, em fase de conclusão
-- Aprofundando práticas de arquitetura e segurança para ferramentas empresariais de gestão interna
-
+```text
+Problema de negócio → Pesquisa de dor real → Arquitetura documentada
+→ Commits atômicos → Testes → Deploy em produção
+→ Feedback do usuário → Iteração contínua
+```
 ---
 
 ## Contate-me
