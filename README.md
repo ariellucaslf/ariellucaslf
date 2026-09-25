@@ -51,7 +51,7 @@ Atualmente lidero a engenharia de dois produtos proprietários: o **FaciliCond**
 | **Mobile & Kiosk** | React Native · Expo · Biometria Facial |
 | **Backend & APIs** | Node.js · Express · REST APIs · BullMQ Workers |
 | **Bancos de Dados** | PostgreSQL · MySQL · Prisma ORM · Redis |
-| **Infra & DevOps** | Docker · Docker Compose · CI/CD · AWS/R2 · Vercel · Render |
+| **Infra & DevOps** | Docker · Docker Compose · CI/CD · AWS/R2 |
 
 ---
 
