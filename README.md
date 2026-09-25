@@ -13,7 +13,7 @@ Atualmente lidero a engenharia de dois produtos proprietários: o **FaciliCond**
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Facili Condomínio</h3>
+      <h3 align="center">FaciliCond</h3>
       <p align="center"><em>Plataforma SaaS B2B/B2C de Gestão Condominial Inteligente</em></p>
       <p>Ecossistema completo com <b>três repositórios isolados</b> (API, Painel Web e App Mobile/Kiosk), atendendo síndicos, administradoras, moradores e funcionários. Principais entregas:</p>
       <ul>
@@ -58,9 +58,7 @@ Atualmente lidero a engenharia de dois produtos proprietários: o **FaciliCond**
 ### Como eu trabalho
 
 ```text
-Problema de negócio → Pesquisa de dor real → Arquitetura documentada
-→ Commits atômicos → Testes → Deploy em produção
-→ Feedback do usuário → Iteração contínua
+Problema de negócio → Pesquisa de dor real → Arquitetura documentada → Commits atômicos → Testes → Deploy em produção → Feedback do usuário → Iteração contínua
 ```
 ---
 
