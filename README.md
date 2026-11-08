@@ -55,14 +55,7 @@ Atualmente lidero a engenharia de dois produtos proprietários: o **FaciliCond**
 
 ---
 
-### Como eu trabalho
-
-```text
-Problema de negócio → Pesquisa de dor real → Arquitetura documentada → Commits atômicos → Testes → Deploy em produção → Feedback do usuário → Iteração contínua
-```
----
-
 ## Contate-me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-lucas-lf09)
-[![Email](https://img.shields.io/badge/-ariellucaslf@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ariellucaslf@gmail.com)
+[![Email](https://img.shields.io/badge/-ariellucas.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ariellucas.dev@gmail.com)
